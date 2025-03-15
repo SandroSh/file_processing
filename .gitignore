@@ -1,0 +1,25 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables
+.env
+
+# Ignore log files
+*.log
+
+# Ignore backup files
+backup/
+
+# Ignore IDE files (VS Code, PyCharm)
+.vscode/
+.idea/
+*.swp
+
+# Ignore dependencies (optional if you use requirements.txt)
+*.egg-info/
